@@ -1,16 +1,16 @@
-## Hi there 👋
+# Avinash Ajithkumar
 
-<!--
-**kalibili/kalibili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Manager at [Fynd](https://www.fynd.com), Mumbai.
 
-Here are some ideas to get you started:
+I work on backend and platform engineering for high-throughput commerce
+systems — distributed systems, reliability, and performance. I spend most of
+my time keeping millions of daily transactions boring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [avinashajith.in](https://avinashajith.in)
+- LinkedIn: [avinashajithkumar](https://www.linkedin.com/in/avinashajithkumar/)
+
+## Interests
+
+- Distributed systems and high-throughput backend services
+- Production reliability, performance, and operational discipline
+- Engineering leadership and building high-performing teams
